@@ -4,9 +4,6 @@ import { FiMail } from 'react-icons/fi'
 import { IconType } from 'react-icons/lib'
 import { breakpointHeightM, breakpointWidthM } from '../styles/devices'
 
-const maxWidthL = `@media (max-width: ${breakpointWidthM})`
-const maxHeightL = `@media (max-height: ${breakpointHeightM})`
-
 export const Ul = styled.div`
     display: flex;
     flex-direction: column;

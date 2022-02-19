@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9ac6951.css",
-    "main.js": "/static/js/main.e058a9ec.js",
-    "static/js/787.0c816567.chunk.js": "/static/js/787.0c816567.chunk.js",
-    "static/media/background.jpg": "/static/media/background.43bfa9a568e3df7c8360.jpg",
-    "index.html": "/index.html",
-    "main.c9ac6951.css.map": "/static/css/main.c9ac6951.css.map",
-    "main.e058a9ec.js.map": "/static/js/main.e058a9ec.js.map",
-    "787.0c816567.chunk.js.map": "/static/js/787.0c816567.chunk.js.map"
+    "main.css": "/naovictoriamusic-es/static/css/main.c9ac6951.css",
+    "main.js": "/naovictoriamusic-es/static/js/main.1df31637.js",
+    "static/js/787.0c816567.chunk.js": "/naovictoriamusic-es/static/js/787.0c816567.chunk.js",
+    "static/media/background.jpg": "/naovictoriamusic-es/static/media/background.43bfa9a568e3df7c8360.jpg",
+    "index.html": "/naovictoriamusic-es/index.html",
+    "main.c9ac6951.css.map": "/naovictoriamusic-es/static/css/main.c9ac6951.css.map",
+    "main.1df31637.js.map": "/naovictoriamusic-es/static/js/main.1df31637.js.map",
+    "787.0c816567.chunk.js.map": "/naovictoriamusic-es/static/js/787.0c816567.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ac6951.css",
-    "static/js/main.e058a9ec.js"
+    "static/js/main.1df31637.js"
   ]
 }

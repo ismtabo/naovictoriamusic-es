@@ -24,7 +24,6 @@ module.exports = {
   rules: {
     'prettier/prettier': 'warn',
     'linebreak-style': ['error', 'unix'],
-    'import/no-relative-parent-imports': 'warn',
   },
   settings: {
     react: {

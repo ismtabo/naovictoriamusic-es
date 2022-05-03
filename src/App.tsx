@@ -8,10 +8,10 @@ import Content from './containers/Content'
 import { theme } from './styles'
 import { breakpointWidthL } from './styles/devices'
 
-const Root = styled.div`
+const Root = styled.main`
   height: 100%;
   width: 100%;
-  background-image: url("${background}");
+  background-image: url('${background}');
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -28,10 +28,10 @@ export default function App() {
       <GlobalStyles />
       <ThemeProvider theme={theme}>
         <Content>
-            <Name />
-            <Social />
+          <Name />
+          <Social />
         </Content>
       </ThemeProvider>
     </Root>
-  );
+  )
 }

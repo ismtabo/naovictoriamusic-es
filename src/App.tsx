@@ -20,6 +20,9 @@ const Root = styled.main`
   @media (max-width: ${breakpointWidthL}) {
     background-position: 25% 0%;
   }
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `
 
 export default function App() {

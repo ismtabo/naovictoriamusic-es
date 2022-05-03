@@ -1,7 +1,11 @@
 {
   "name": "naovictoriamusic-es",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "author": {
+    "name": "Ismael Taboada Rodero",
+    "email": "ismael.jtr@gmail.com"
+  },
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",

@@ -9,6 +9,7 @@ export const Ul = styled.div`
   flex-direction: column;
   width: min-content;
   align-self: end;
+  font-size: 0.95em;
   @media (max-height: ${breakpointHeightM}) {
     width: 100%;
     display: grid;
@@ -26,8 +27,8 @@ export const Li = styled.div`
   font-size: 1.5em;
   border-radius: 0.2em;
   padding: 0.2em 0.5em;
-  background-color: ${(props) => props.theme.colors.black};
-  color: ${(props) => props.theme.colors.purple};
+  background-color: ${(props) => props.theme.colors.secondary};
+  color: ${(props) => props.theme.colors.gray60};
   margin-bottom: 1em;
   @media (max-width: ${breakpointWidthM}) {
     justify-content: space-between;

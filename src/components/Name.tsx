@@ -21,9 +21,9 @@ export default function Name() {
   const theme = useTheme()
   return (
     <Div>
-      <H1 style={{ color: theme.colors.white }}>Nao</H1>
-      <H1 style={{ color: theme.colors.primary }}>Victoria</H1>
-      <h2 style={{ color: theme.colors.purple }}>Música en vivo</h2>
+      <H1 style={{ color: theme.colors.primary }}>Nao</H1>
+      <H1 style={{ color: theme.colors.secondary }}>Victoria</H1>
+      <h2 style={{ color: theme.colors.gray40 }}>Música en vivo</h2>
     </Div>
   )
 }

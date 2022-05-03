@@ -14,6 +14,7 @@ const Div = styled.div`
   @media (max-width: ${breakpointWidthM}) {
     top: 5%;
     bottom: 5%;
+    right: unset;
   }
   @media (max-height: ${breakpointHeightM}) {
     gap: 1em;
